@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# VCS
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# Envs
+.env
+.venv/
+venv/
+
+# OS files
+.DS_Store
+
+# Local DB and caches
+*.sqlite3
+/db.sqlite3
+staticfiles/
